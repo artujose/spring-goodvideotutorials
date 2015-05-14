@@ -9,7 +9,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>My Spring Application</title>
+<title>Arturo Diaz Site</title>
 
 <!--  Bootstrap -->
 <link href="public/lib/bootstrap-3.3.2-dist/css/bootstrap.min.css"
